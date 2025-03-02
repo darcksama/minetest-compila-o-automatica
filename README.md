@@ -1,5 +1,7 @@
 Créditos criadores,Made By: 
+
 Darcksama 
+
 Franklin souza: 
 https://github.com/frannks 
 
@@ -7,6 +9,7 @@ Josegamestest:
 https://github.com/josegamestest
 
 Atualização, Correção e melhorias para versão 1.0
+
 petrov
 https://codeberg.org/petrov
 
